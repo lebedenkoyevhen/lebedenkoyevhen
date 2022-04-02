@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yevhen Lebedenko (@markfixgg)
 - 👀 I’m interested in web development (fullstack)
-- 🌱 I’m currently learning react/redux, next.js/nest.js, graphql, express
+- 🌱 I’m currently learning react/redux, next.js/nest.js, graphql
 - 💞️ I’m looking to collaborate on startup
 - 📫 How to reach me: telegram - @uundefinedd
 
