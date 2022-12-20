@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development (fullstack)
 - 🌱 I’m currently learning next.js/nest.js
 - 💞️ I’m looking to collaborate on startup
-- 📫 How to reach me: https://t.me/uundefinedd
+- 📫 How to reach me: lebedenko077@gmail.com
 
 <!---
 markfixgg/markfixgg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
